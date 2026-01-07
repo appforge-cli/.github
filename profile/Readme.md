@@ -62,9 +62,7 @@ We're just getting started and would love your input! Whether it's:
 ## 📈 What's Next
 
 We're actively working on:
-- Additional authentication methods
-- More Firebase modules
-- Pre-built feature templates
+- Light/Dark Theme Modes
 - Enhanced customization options
 - Community-driven improvements
 
