@@ -46,7 +46,7 @@ Whether you're prototyping an idea over the weekend or starting a production app
 
 ## 👥 The Team
 
-We're a two-person team that shipped this in a week:
+We're a two-person team that shipped this in a month:
 
 - **Ajay Chikshetty** - [GitHub](https://github.com/ajaychikshetty) | [LinkedIn](https://www.linkedin.com/in/ajaychikshetty)
 - **Saksham Khare** - [GitHub](https://github.com/SakshamVK) | [LinkedIn](https://www.linkedin.com/in/sakshamvinodkhare)
