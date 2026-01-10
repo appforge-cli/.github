@@ -33,7 +33,7 @@ appforge create
 
 ## 🎯 Our Mission
 
-We're developers who got tired of repeating the same setup tasks for every new Flutter project. So we built the tool we wish we had—one that handles the tedious stuff so you can focus on building something great.
+We're developers who got tired of repeating the same setup tasks for every new Flutter project. So we built the tool we wish we had one that handles the tedious stuff so you can focus on building something great.
 
 Whether you're prototyping an idea over the weekend or starting a production app, AppForge gets you from zero to coding in minutes, not hours.
 
